@@ -3,7 +3,7 @@ This project is the server code for pi bot written in node.js, it runs on the ra
 
 According to the direction given by the android app(received using socket.io), server sends GPIO commands to move the car accordingly.
 
-The demo for the project can be seen [here](https://youtu.be/eFooFdN0tX8)
+
 
 [IOT.pptx](https://github.com/Harshalkhed/pi-bot-server-master/files/8283354/IOT.pptx)
 
