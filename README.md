@@ -5,10 +5,14 @@ According to the direction given by the android app(received using socket.io), s
 
 The demo for the project can be seen [here](https://youtu.be/eFooFdN0tX8)
 
+[IOT.pptx](https://github.com/Harshalkhed/pi-bot-server-master/files/8283354/IOT.pptx)
+
+
 # Technology used
   1. [Node.js](https://nodejs.org/)
   2. [socket.io](https://socket.io)
-  3. [Express](https://expressjs.com/)
+  3. [Express](https://expr[Uploading IOT.pptx…]()
+essjs.com/)
   4. [onOff](https://www.npmjs.com/package/onoff)
   5. [sleep](https://www.npmjs.com/package/sleep)
  
